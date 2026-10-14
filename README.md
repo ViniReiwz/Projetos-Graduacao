@@ -3,6 +3,8 @@ Repositório que sintetiza os projetos/exercícios relacionados à graduação e
 
 [Tile Game](https://github.com/ViniReiwz/TrabalhoPraticoPOO-TileGame) ->> Projeto da disciplina de Programação Orientada à Objetos, consistindo na implementação de um jogo simples baseadoem células, utilizando a linguagem Java e as técnicas de POO;
 
+[Manipulação e indexação de arquivos e lógica de grafos](https://github.com/ViniReiwz/Estruturas-de-Dados-III---Trabalhos-Praticos) ->> Projetos da disciplinna de Estrutura de Dados III, que lida com a indexação de arquivos em disco e em memória, bem como criação e buscas em grafos.
+
 [Chat em Grupo via socket TCP](https://github.com/ViniReiwz/Cliente-Servidor-bySocket_Redes-de-Computadores) ->> Projeto da disciplina de Redes de Computadores, que consiste num sistema básico de cliente servidor onde vários clientes podem se ligar ao servidor, receber e enviar mensagens uns aos outros.
 
 [Otimização de problemas lineares](https://github.com/ViniReiwz/Progamacao-Matematica---Exercicios-SME0610-) ->> Exercícios de modelagem computacional para problemas de otimização.
