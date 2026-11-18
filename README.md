@@ -3,7 +3,7 @@ Repositório que sintetiza os projetos/exercícios relacionados à graduação e
 
 - [Chat em Grupo via socket TCP](https://github.com/ViniReiwz/Cliente-Servidor-bySocket_Redes-de-Computadores): Projeto da disciplina de Redes de Computadores, que consiste num sistema básico de cliente servidor onde vários clientes podem se ligar ao servidor, receber e enviar mensagens uns aos outros.
 
-- [Manipulação e indexação de arquivos e lógica de grafos](https://github.com/ViniReiwz/Estruturas-de-Dados-III---Trabalhos-Praticos): Projetos da disciplinna de Estrutura de Dados III, que lida com a indexação de arquivos em disco e em memória, bem como criação e buscas em grafos.  
+- [Manipulação e indexação de arquivos e lógica de grafos](https://github.com/ViniReiwz/Estruturas-de-Dados-III---Trabalhos-Praticos): Projetos da disciplina de Estrutura de Dados III, que lida com a indexação de arquivos em disco e em memória, bem como criação e buscas em grafos.  
 
 - [Projeto de Base de Dados - Gestão de eventos e espaços](https://github.com/ViniReiwz/ProjetoSCC0540-SCC0640-Gestao_de_Eventos_e_Espacos): Projeto final da disciplina de Base de Dados, no contexto de um sistema de gerenciamento de eventos, espaços e pessoas.  
  
